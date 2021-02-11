@@ -1,7 +1,13 @@
 .comment {
   display: flex;
   border: 1px solid black;
-  width: 80%;
+
+  margin-bottom: 5px;
+}
+
+.comment-children {
+  width: 95%;
+  margin-left: auto;
 }
 
 .comment-image {
